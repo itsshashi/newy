@@ -1,1 +1,1 @@
-this is the master and branch editor
+this is the master and branch editor of nf2
