@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the master end edits
+=======
+this is the chain branch editor
+>>>>>>> chain
